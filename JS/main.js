@@ -12,7 +12,7 @@
                       *************/
  //https://api.themoviedb.org/3/movie/{movie_id}/recommendations?api_key=<<api_key>>
  //https://api.themoviedb.org/3/movie/<movie-id>?api_key=<APIKEY>
- //const APIKEY is inside key.js
+
 
 const app = {
 
